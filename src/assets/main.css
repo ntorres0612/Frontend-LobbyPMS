@@ -1,0 +1,8 @@
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+th.v-data-table__td.v-data-table-column--align-start.v-data-table__th {
+    font-weight: bold;
+}
